@@ -1,1 +1,1 @@
-"# udemy course: section: git" 
+# udemy course: section: git
