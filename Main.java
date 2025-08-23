@@ -8,7 +8,7 @@ public class Main {
                 str+=" ";
             }
             for(int j=0;j<2*l;j++){
-                str+="*";
+                str+="@";
             }
             l+=1;
             str+="*";
