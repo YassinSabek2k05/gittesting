@@ -11,7 +11,7 @@ public class Main {
                 str+="@";
             }
             l+=1;
-            str+="*";
+            str+="@";
             System.out.println("-------------------");
             
             System.out.println(str);
