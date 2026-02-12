@@ -12,7 +12,7 @@ public class Main {
             }
             l+=1;
             str+="@";
-            System.out.println("-------------------");
+            System.out.println("----------------");
             
             System.out.println(str);
             
